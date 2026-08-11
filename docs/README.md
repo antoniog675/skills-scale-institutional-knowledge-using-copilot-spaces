@@ -7,3 +7,5 @@ Day‑to‑day execution is managed on a project board with columns such as Back
 Roles are clearly defined to ensure ownership and alignment: Product Managers own outcomes and prioritization; Project Managers coordinate schedule, risks, and communications; Developers implement and test changes; and QA validates acceptance criteria and critical flows. These personas are used to set expectations for planning, estimation, reviews, and documentation across the project.
 
 Quality assurance and risk management are built into the process. Teams are expected to deliver unit and integration tests for new logic, run end‑to‑end smoke tests for critical flows, and use security scanning in CI. Risks are tracked in a simple risk register (impact, likelihood, owner, mitigation) and reviewed regularly. Retrospectives convert learnings into action items and backlog work to continuously improve the way the team plans, builds, and releases software.
+
+Note: This file was prepared for the PR "Add OctoAcme process overview README" and includes a summary of key workflows, roles, communication cadence, and QA practices.
