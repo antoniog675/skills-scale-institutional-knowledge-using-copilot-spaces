@@ -8,4 +8,17 @@ Roles are clearly defined to ensure ownership and alignment: Product Managers ow
 
 Quality assurance and risk management are built into the process. Teams are expected to deliver unit and integration tests for new logic, run end‑to‑end smoke tests for critical flows, and use security scanning in CI. Risks are tracked in a simple risk register (impact, likelihood, owner, mitigation) and reviewed regularly. Retrospectives convert learnings into action items and backlog work to continuously improve the way the team plans, builds, and releases software.
 
+## Process documents
+
+The following project management process documents are stored in this folder. Click a link to open the full guidance for each area.
+
+- [Project Management Overview](./octoacme-project-management-overview.md)
+- [Project Initiation Guide](./octoacme-project-initiation.md)
+- [Project Planning](./octoacme-project-planning.md)
+- [Execution & Tracking](./octoacme-execution-and-tracking.md)
+- [Risks & Communication](./octoacme-risks-and-communication.md)
+- [Release & Deployment](./octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](./octoacme-roles-and-personas.md)
+
 Note: This file was prepared for the PR "Add OctoAcme process overview README" and includes a summary of key workflows, roles, communication cadence, and QA practices.
